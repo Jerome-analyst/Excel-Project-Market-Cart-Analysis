@@ -18,7 +18,7 @@ To design a dynamic Excel dashboard that:
 
 ## 🖼️ Dashboard Preview
 
-![Market Cart Dashboard](https://github.com/Jerome-analyst/Excel-Data-Analysis-Project/blob/main/Dashboard.png)
+![Market Cart Dashboard]([https://github.com/Jerome-analyst/Excel-Data-Analysis-Project/blob/main/Dashboard.png])
 
 ---
 
