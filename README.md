@@ -70,11 +70,6 @@ To design a dynamic Excel dashboard that:
 
 ---
 
-## 📌 Project Structure
-
-
----
-
 ## 💡 Learnings
 
 - Strengthened skills in Excel dashboard design and data visualization
