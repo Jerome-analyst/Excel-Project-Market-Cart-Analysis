@@ -1,4 +1,4 @@
-# 📊 Excel Data Analysis & Dashboard Project – Market Cart
+# Excel Data Analysis & Dashboard Project – Market Cart
 
 ## 📁 Project Overview
 
