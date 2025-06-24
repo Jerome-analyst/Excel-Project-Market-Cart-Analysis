@@ -1,2 +1,74 @@
-# Excel-Data-Analysis-Project
-This is a personal data analysis project where I explored and visualized the sales and profit performance of the fictional company Market Cart using Microsoft Excel. The goal of this project was to apply data cleaning, analysis, and visualization techniques to gain actionable insights from historical sales data.
+# 📊 Excel Data Analysis & Dashboard Project – Market Cart
+
+## 📁 Project Overview
+
+This project showcases an Excel-based data analysis of *Market Cart*, a fictional retail company. The objective is to transform raw sales data into actionable business insights through data cleaning, transformation, and interactive dashboards.
+
+---
+
+## 🎯 Objective
+
+To design a dynamic Excel dashboard that:
+- Tracks total sales and profit over multiple years
+- Analyzes performance by product category, customer, and geography
+- Provides interactive filtering by year, month, and category
+- Supports data-driven decision-making through visual insights
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Market Cart Dashboard]()
+
+---
+
+## 🛠️ Tools & Techniques Used
+
+| Category         | Description                                     |
+|------------------|-------------------------------------------------|
+| **Software**     | Microsoft Excel                                 |
+| **Features**     | Pivot Tables, Pivot Charts, Slicers, Power Query |
+| **Techniques**   | Data Cleaning, KPI Calculation, Trend Analysis  |
+
+---
+
+## 🧼 Data Preparation
+
+- Combined datasets: sales records, customer data, and product categories
+- Cleaned inconsistent data entries and standardized formats
+- Created calculated fields: total profit, customer count
+- Used Power Query for data transformation and loading
+
+---
+
+## 📂 Sample Data View
+
+![Sample Data Source](images/data_source_preview.png)
+
+---
+
+## 📊 Dashboard Highlights
+
+- **Total Sales & Profit**: KPI tiles summarizing performance
+- **Profit by Year**: Multi-series column chart by product segment
+- **Sales by Category**: Bar chart ranking top-selling items
+- **Sales by State**: Geographic map visualization
+- **Sales by Month**: Monthly trend analysis across years
+- **Customer Count**: Donut chart comparison
+- **Top 5 Customers**: Bar chart ranking by revenue
+- **Interactive Filters**: Slicers for Category, Month, and Year
+
+---
+
+## 📈 Key Insights
+
+- 2023 showed the highest profit growth, especially in Technology
+- Phones and Chairs topped the sales category
+- Sales peaked in November and December, indicating seasonal demand
+- New York and California generated the most revenue
+- A small number of customers contributed to the majority of sales
+
+---
+
+## 📌 Project Structure
+
