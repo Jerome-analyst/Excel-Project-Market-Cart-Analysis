@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project showcases an Excel-based data analysis of *Market Cart*, a fictional retail company. The objective is to transform raw sales data into actionable business insights through data cleaning, transformation, and interactive dashboards.
+This project presents a comprehensive Excel-based data analysis conducted for Market Cart, a fictional retail company. The primary objective of this project is to convert raw and unstructured sales data into meaningful and actionable business insights that can support data-driven decision-making. The analysis journey begins with the data cleaning process, which involves removing inconsistencies, handling missing values, standardizing date formats, and ensuring data integrity across different sheets and fields. This crucial step establishes a solid foundation for accurate analysis.
+
+Following data cleaning, the data transformation phase is implemented to organize and structure the dataset for analysis. This includes creating calculated fields, aggregating sales figures by region, category, and product, as well as deriving key performance indicators (KPIs) such as total revenue, average transaction value, product performance, and customer segmentation. The core of the project lies in the creation of interactive dashboards using Excel's powerful tools such as Pivot Tables, Pivot Charts, Slicers, and Conditional Formatting. These dashboards provide visual representations of sales trends, product performance, regional comparisons, and customer behavior patterns. With user-friendly navigation, stakeholders can filter and explore data dynamically, allowing for deeper insights into specific areas of interest.
 
 ---
 
