@@ -1,12 +1,12 @@
 # Excel Data Analysis & Dashboard Project – Market Cart
 
-## 📁 Project Overview
+## Project Overview
 
 This project showcases an Excel-based data analysis of *Market Cart*, a fictional retail company. The objective is to transform raw sales data into actionable business insights through data cleaning, transformation, and interactive dashboards.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To design a dynamic Excel dashboard that:
 - Tracks total sales and profit over multiple years
@@ -16,12 +16,12 @@ To design a dynamic Excel dashboard that:
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Market Cart Dashboard](https://github.com/Jerome-analyst/Excel-Data-Analysis-Project/blob/main/Dashboard.png)
 ---
 
-## 🛠️ Tools & Techniques Used
+##  Tools & Techniques Used
 
 | Category         | Description                                     |
 |------------------|-------------------------------------------------|
@@ -31,7 +31,7 @@ To design a dynamic Excel dashboard that:
 
 ---
 
-## 🧼 Data Preparation
+## Data Preparation
 
 - Combined datasets: sales records, customer data, and product categories
 - Cleaned inconsistent data entries and standardized formats
@@ -40,12 +40,12 @@ To design a dynamic Excel dashboard that:
 
 ---
 
-## 📂 Sample Data View
+## Sample Data View
 
 [📄 View the Sales and Profit Data (Excel file)](https://github.com/Jerome-analyst/Excel-Data-Analysis-Project/blob/main/Sales%20and%20Profit%20Data.xlsx)
 ---
 
-## 📊 Dashboard Highlights
+## Dashboard Highlights
 
 - **Total Sales & Profit**: KPI tiles summarizing performance
 - **Profit by Year**: Multi-series column chart by product segment
@@ -58,7 +58,7 @@ To design a dynamic Excel dashboard that:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - 2023 showed the highest profit growth, especially in Technology
 - Phones and Chairs topped the sales category
@@ -68,7 +68,7 @@ To design a dynamic Excel dashboard that:
 
 ---
 
-## 💡 Learnings
+## Learnings
 
 - Strengthened skills in Excel dashboard design and data visualization
 - Hands-on experience with Power Query and data transformation
@@ -76,7 +76,7 @@ To design a dynamic Excel dashboard that:
 
 ---
 
-## 🔄 Future Enhancements
+## Future Enhancements
 
 - Automate data updates through Power Query refresh
 - Add sales forecasting using trendlines or regression analysis
