@@ -43,7 +43,7 @@ To design a dynamic Excel dashboard that:
 
 ## 📂 Sample Data View
 
-![Sample Data Source](images/data_source_preview.png)
+[📄 View the Sales and Profit Data (Excel file)](https://github.com/Jerome-analyst/Excel-Data-Analysis-Project/blob/main/Sales%20and%20Profit%20Data.xlsx)
 
 ---
 
@@ -71,4 +71,24 @@ To design a dynamic Excel dashboard that:
 ---
 
 ## 📌 Project Structure
+
+
+---
+
+## 💡 Learnings
+
+- Strengthened skills in Excel dashboard design and data visualization
+- Hands-on experience with Power Query and data transformation
+- Practical understanding of sales performance metrics and customer trends
+
+---
+
+## 🔄 Future Enhancements
+
+- Automate data updates through Power Query refresh
+- Add sales forecasting using trendlines or regression analysis
+- Migrate the dashboard to Power BI for enhanced interactivity
+
+---
+
 
