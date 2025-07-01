@@ -4,9 +4,6 @@
 
 This project presents a comprehensive Excel-based data analysis conducted for Market Cart, a fictional retail company. The primary objective of this project is to convert raw and unstructured sales data into meaningful and actionable business insights that can support data-driven decision-making. The analysis journey begins with the data cleaning process, which involves removing inconsistencies, handling missing values, standardizing date formats, and ensuring data integrity across different sheets and fields. This crucial step establishes a solid foundation for accurate analysis.
 
-
----
-
 ## Objective
 
 To design a dynamic Excel dashboard that:
@@ -15,12 +12,10 @@ To design a dynamic Excel dashboard that:
 - Provides interactive filtering by year, month, and category
 - Supports data-driven decision-making through visual insights
 
----
-
 ## Dashboard Preview
 
 ![Market Cart Dashboard](https://github.com/Jerome-analyst/Excel-Data-Analysis-Project/blob/main/Dashboard.png)
----
+
 
 ##  Tools & Techniques Used
 
@@ -30,7 +25,7 @@ To design a dynamic Excel dashboard that:
 | **Features**     | Pivot Tables, Pivot Charts, Slicers, Power Query |
 | **Techniques**   | Data Cleaning, KPI Calculation, Trend Analysis  |
 
----
+
 
 ## Data Preparation
 
@@ -39,12 +34,10 @@ To design a dynamic Excel dashboard that:
 - Created calculated fields: total profit, customer count
 - Used Power Query for data transformation and loading
 
----
-
 ## Sample Data View
 
 [📄 View the Sales and Profit Data (Excel file)](https://github.com/Jerome-analyst/Excel-Data-Analysis-Project/blob/main/Sales%20and%20Profit%20Data.xlsx)
----
+
 
 ## Dashboard Highlights
 
@@ -57,7 +50,6 @@ To design a dynamic Excel dashboard that:
 - **Top 5 Customers**: Bar chart ranking by revenue
 - **Interactive Filters**: Slicers for Category, Month, and Year
 
----
 
 ## Key Insights
 
@@ -67,7 +59,6 @@ To design a dynamic Excel dashboard that:
 - New York and California generated the most revenue
 - A small number of customers contributed to the majority of sales
 
----
 
 ## Learnings
 
@@ -75,7 +66,6 @@ To design a dynamic Excel dashboard that:
 - Hands-on experience with Power Query and data transformation
 - Practical understanding of sales performance metrics and customer trends
 
----
 
 ## Future Enhancements
 
@@ -83,6 +73,5 @@ To design a dynamic Excel dashboard that:
 - Add sales forecasting using trendlines or regression analysis
 - Migrate the dashboard to Power BI for enhanced interactivity
 
----
 
 
