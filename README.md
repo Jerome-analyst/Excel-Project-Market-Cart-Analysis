@@ -1,5 +1,3 @@
-# Excel Data Analysis & Dashboard Project – Market Cart
-
 ## Project Overview
 
 This project presents a comprehensive Excel-based data analysis conducted for Market Cart, a fictional retail company. The primary objective of this project is to convert raw and unstructured sales data into meaningful and actionable business insights that can support data-driven decision-making. The analysis journey begins with the data cleaning process, which involves removing inconsistencies, handling missing values, standardizing date formats, and ensuring data integrity across different sheets and fields. This crucial step establishes a solid foundation for accurate analysis.
