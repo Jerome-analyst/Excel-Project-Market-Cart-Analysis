@@ -34,7 +34,7 @@ To design a dynamic Excel dashboard that:
 
 ## Sample Data View
 
-[📄 View the Sales and Profit Data (Excel file)](https://github.com/Jerome-analyst/Excel-Data-Analysis-Project/blob/main/Sales%20and%20Profit%20Data.xlsx)
+[📄 View the Sales and Profit Data (Excel file)](https://github.com/Jerome-analyst/Excel-Project-Market-Cart-Analysis/blob/main/Sales%20and%20Profit%20Data.xlsx)
 
 
 ## Dashboard Highlights
