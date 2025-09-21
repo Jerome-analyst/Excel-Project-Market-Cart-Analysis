@@ -1,8 +1,6 @@
 # Project Overview  
 
-This project showcases an Excel-based data analysis for **Market Cart**, a fictional retail company. The goal is to transform raw, unstructured sales data into meaningful insights that support data-driven decision-making.  
-
-The process begins with data cleaning—removing inconsistencies, handling missing values, standardizing formats, and ensuring data integrity across sheets. This foundation enables accurate analysis and reliable results.  
+This project showcases an Excel-based data analysis for **Market Cart**, a fictional retail company. The goal is to transform raw, unstructured sales data into meaningful insights that support data-driven decision-making. The process begins with data cleaning, removing inconsistencies, handling missing values, standardizing formats, and ensuring data integrity across sheets. This foundation enables accurate analysis and reliable results.  
 
 ---
 
